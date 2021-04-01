@@ -7,4 +7,4 @@ while(alive):
         alive = False;
     else:
         orders.append(order);
-print(orders);gg
+print(orders);
